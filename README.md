@@ -1,4 +1,4 @@
-### What is @michaelr0 - Michael Rook up to?
+### What is @michaelr0 up to?
 
 - 🔭 I’m currently working on [Buildamic](https://github.com/HandmadeWeb/buildamic) a pagebuilder addon for [Statamic](https://statamic.com/)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
