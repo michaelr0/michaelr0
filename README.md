@@ -1,4 +1,7 @@
-### Hi there 👋
+### What is @michaelr0 - Michael Rook up to?
+
+- 🔭 I’m currently working on [Buildamic](https://github.com/HandmadeWeb/buildamic) a pagebuilder addon for [Statamic](https://statamic.com/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 
 <!--
 **michaelr0/michaelr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
