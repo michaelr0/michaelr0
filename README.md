@@ -14,7 +14,7 @@
   - [dataFetcher.js](https://github.com/HandmadeWeb/datafetcher.js) dataFetcher.js is a small library to swap the content of an element with the Html content from an ajax response
 
 - 👯 Open Source Projects that I have contributed to:
-  - [Statamic](https://github.com/statamic/statamic) Statamic is an open source, PHP CMS designed and built specifically for developers and their clients or content managers. It runs on [Laravel](https://laravel.com/) and replaces the pain of managing sites with a childlike sense of wonder and joy
+  - [Statamic](https://github.com/statamic/cms) Statamic is an open source, PHP CMS designed and built specifically for developers and their clients or content managers. It runs on [Laravel](https://laravel.com/) and replaces the pain of managing sites with a childlike sense of wonder and joy
   - [Statamic Docs](https://github.com/statamic/docs) Statamic Documentation
   - [Statamic Blade Directives](https://github.com/edalzell/statamic-blade) Access your Statamic data via Blade directives
   - [Statamic Blade Starterkit](https://github.com/spatie/statamic-blade-starter-kit) The default statamic/statamic starter, but with Laravel Blade
