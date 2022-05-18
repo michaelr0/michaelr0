@@ -1,6 +1,7 @@
 ### What is @michaelr0 up to?
 
 - 🔭 Open Source Projects that I'm a developer on:
+  - [LOIA](https://github.com/michaelr0/laravel-openwrt-imagebuilder-api) Laravel Openwrt Imagebuilder API, Openwrt ASU Imagebuilder API wrapper for Laravel
   - [imeq-rs](https://github.com/michaelr0/imeq-rs) imeq rust aims to quickly compare two images to see if they are the same image 
   - [Buildamic](https://github.com/HandmadeWeb/buildamic) a pagebuilder addon for the Laravel based CMS [Statamic](https://statamic.com/)  
   - [Frosty](https://github.com/HandmadeWeb/frosty) Frosty provides easy access to fetch Ajax content in Statamic with [dataFetcher.js](https://github.com/HandmadeWeb/datafetcher.js)  
