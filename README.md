@@ -18,3 +18,4 @@
   - [Statamic Docs](https://github.com/statamic/docs) Statamic Documentation
   - [Statamic Blade Directives](https://github.com/edalzell/statamic-blade) Access your Statamic data via Blade directives
   - [Statamic Blade Starterkit](https://github.com/spatie/statamic-blade-starter-kit) The default statamic/statamic starter, but with Laravel Blade
+  - [Xen Orchestra Installer / Updater](https://github.com/ronivay/XenOrchestraInstallerUpdater) Script to install/update [Xen Orchestra](https://xen-orchestra.com/) and all of it's dependencies on multiple different Linux distributions.
